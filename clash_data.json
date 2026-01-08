@@ -1,0 +1,977 @@
+[
+    {
+        "player_id": "20JQVQRG09",
+        "deck": [
+            "goblin-barrel-ev1",
+            "skeleton-army-ev1",
+            "knight-hero",
+            "princess",
+            "dart-goblin",
+            "ice-spirit",
+            "the-log",
+            "inferno-tower"
+        ]
+    },
+    {
+        "player_id": "J8R89YC8",
+        "deck": [
+            "wizard-ev1",
+            "knight-ev1",
+            "x-bow",
+            "rocket",
+            "tornado",
+            "skeletons",
+            "ice-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "J89JRRU",
+        "deck": [
+            "bats-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "wizard-hero",
+            "giant",
+            "miner",
+            "skeletons",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "QQ80UR8Q2",
+        "deck": [
+            "battle-ram-ev1",
+            "zap-ev1",
+            "boss-bandit",
+            "mini-pekka-hero",
+            "magic-archer",
+            "electro-wizard",
+            "skeletons",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "VGRULGVLQ",
+        "deck": [
+            "lumberjack-ev1",
+            "executioner-ev1",
+            "monk",
+            "ram-rider",
+            "royal-ghost",
+            "fire-spirit",
+            "tornado",
+            "ice-spirit"
+        ]
+    },
+    {
+        "player_id": "VLL8YQC9G",
+        "deck": [
+            "goblin-barrel-ev1",
+            "skeleton-army-ev1",
+            "wall-breakers",
+            "valkyrie",
+            "princess",
+            "dart-goblin",
+            "ice-spirit",
+            "cannon"
+        ]
+    },
+    {
+        "player_id": "202CLRUUL2",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "skeleton-army-ev1",
+            "mini-pekka-hero",
+            "suspicious-bush",
+            "wall-breakers",
+            "princess",
+            "dart-goblin",
+            "electro-spirit"
+        ]
+    },
+    {
+        "player_id": "YUQYJV08",
+        "deck": [
+            "executioner-ev1",
+            "zap-ev1",
+            "boss-bandit",
+            "mini-pekka-hero",
+            "hog-rider",
+            "minion-horde",
+            "guards",
+            "freeze"
+        ]
+    },
+    {
+        "player_id": "8VYPPG8U",
+        "deck": [
+            "firecracker-ev1",
+            "cannon-ev1",
+            "mighty-miner",
+            "hog-rider",
+            "earthquake",
+            "skeletons",
+            "electro-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "YGPYCCQY",
+        "deck": [
+            "firecracker-ev1",
+            "cannon-ev1",
+            "mighty-miner",
+            "hog-rider",
+            "earthquake",
+            "skeletons",
+            "electro-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "9J2VPVPVQ",
+        "deck": [
+            "battle-ram-ev1",
+            "zap-ev1",
+            "boss-bandit",
+            "mini-pekka-hero",
+            "magic-archer",
+            "electro-wizard",
+            "skeletons",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "PVRC2YCC2",
+        "deck": [
+            "wizard-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "sparky",
+            "vines",
+            "tornado",
+            "heal-spirit"
+        ]
+    },
+    {
+        "player_id": "CPLGLPU80",
+        "deck": [
+            "wall-breakers-ev1",
+            "cannon-ev1",
+            "knight-hero",
+            "musketeer-hero",
+            "miner",
+            "poison",
+            "skeletons",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "RUQ0JU2P",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "skeleton-army-ev1",
+            "skeleton-king",
+            "suspicious-bush",
+            "dart-goblin",
+            "vines",
+            "fire-spirit",
+            "ice-spirit"
+        ]
+    },
+    {
+        "player_id": "QJGVCYR",
+        "deck": [
+            "skeleton-army-ev1",
+            "wizard-ev1",
+            "skeleton-king",
+            "elixir-golem",
+            "void",
+            "night-witch",
+            "goblin-curse",
+            "rage"
+        ]
+    },
+    {
+        "player_id": "20JQVQRG09",
+        "deck": [
+            "goblin-barrel-ev1",
+            "skeleton-army-ev1",
+            "knight-hero",
+            "princess",
+            "dart-goblin",
+            "ice-spirit",
+            "the-log",
+            "inferno-tower"
+        ]
+    },
+    {
+        "player_id": "QQ80UR8Q2",
+        "deck": [
+            "battle-ram-ev1",
+            "zap-ev1",
+            "boss-bandit",
+            "mini-pekka-hero",
+            "magic-archer",
+            "electro-wizard",
+            "skeletons",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "VGRULGVLQ",
+        "deck": [
+            "lumberjack-ev1",
+            "executioner-ev1",
+            "monk",
+            "ram-rider",
+            "royal-ghost",
+            "fire-spirit",
+            "tornado",
+            "ice-spirit"
+        ]
+    },
+    {
+        "player_id": "VLL8YQC9G",
+        "deck": [
+            "goblin-barrel-ev1",
+            "skeleton-army-ev1",
+            "wall-breakers",
+            "valkyrie",
+            "princess",
+            "dart-goblin",
+            "ice-spirit",
+            "cannon"
+        ]
+    },
+    {
+        "player_id": "202CLRUUL2",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "skeleton-army-ev1",
+            "mini-pekka-hero",
+            "suspicious-bush",
+            "wall-breakers",
+            "princess",
+            "dart-goblin",
+            "electro-spirit"
+        ]
+    },
+    {
+        "player_id": "RUQ0JU2P",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "skeleton-army-ev1",
+            "skeleton-king",
+            "suspicious-bush",
+            "wall-breakers",
+            "dart-goblin",
+            "vines",
+            "ice-spirit"
+        ]
+    },
+    {
+        "player_id": "208YUJVPQU",
+        "deck": [
+            "goblin-cage-ev1",
+            "royal-recruits-ev1",
+            "royal-hogs",
+            "flying-machine",
+            "zappies",
+            "arrows",
+            "electro-spirit",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "G9YV9GR8R",
+        "deck": [
+            "royal-giant-ev1",
+            "royal-ghost-ev1",
+            "hunter",
+            "fisherman",
+            "fireball",
+            "skeletons",
+            "electro-spirit",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "QVLCC8PL8",
+        "deck": [
+            "archers-ev1",
+            "tesla-ev1",
+            "knight-hero",
+            "x-bow",
+            "fireball",
+            "skeletons",
+            "electro-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "2Y2Q29YP0",
+        "deck": [
+            "skeleton-army-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "wizard-hero",
+            "giant",
+            "sparky",
+            "vines",
+            "minions"
+        ]
+    },
+    {
+        "player_id": "Q0YJ0YRUL",
+        "deck": [
+            "skeleton-army-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "sparky",
+            "minion-horde",
+            "minions",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "U9JC229L8",
+        "deck": [
+            "bats-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant",
+            "sparky",
+            "minion-horde",
+            "skeleton-army",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "PP2C9LVG",
+        "deck": [
+            "baby-dragon-ev1",
+            "valkyrie-ev1",
+            "knight-hero",
+            "golem",
+            "rocket",
+            "mini-pekka",
+            "ice-wizard",
+            "tornado"
+        ]
+    },
+    {
+        "player_id": "2PPRU8QU0",
+        "deck": [
+            "royal-ghost-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "wizard-hero",
+            "giant",
+            "heal-spirit",
+            "rage",
+            "elixir-collector"
+        ]
+    },
+    {
+        "player_id": "9QPRJ0RY9",
+        "deck": [
+            "cannon-ev1",
+            "skeletons-ev1",
+            "musketeer-hero",
+            "hog-rider",
+            "fireball",
+            "ice-golem",
+            "ice-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "CC2RVP9RG",
+        "deck": [
+            "cannon-ev1",
+            "skeletons-ev1",
+            "musketeer-hero",
+            "hog-rider",
+            "fireball",
+            "ice-golem",
+            "ice-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "VYGR2GUV9",
+        "deck": [
+            "witch-ev1",
+            "giant-snowball-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "graveyard",
+            "bowler",
+            "vines",
+            "minions"
+        ]
+    },
+    {
+        "player_id": "2Y20C8U0C",
+        "deck": [
+            "barbarians-ev1",
+            "zap-ev1",
+            "lava-hound",
+            "balloon",
+            "fireball",
+            "skeleton-dragons",
+            "mega-minion",
+            "tombstone"
+        ]
+    },
+    {
+        "player_id": "GPPYR9JYR",
+        "deck": [
+            "royal-hogs-ev1",
+            "royal-ghost-ev1",
+            "lightning",
+            "ice-wizard",
+            "goblin-hut",
+            "skeletons",
+            "electro-spirit",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "P8P0Q8CJ",
+        "deck": [
+            "royal-giant-ev1",
+            "royal-ghost-ev1",
+            "hunter",
+            "fisherman",
+            "fireball",
+            "skeletons",
+            "electro-spirit",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "U200V9P",
+        "deck": [
+            "valkyrie-ev1",
+            "ice-spirit-ev1",
+            "wizard-hero",
+            "hog-rider",
+            "rocket",
+            "goblins",
+            "tornado",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "2YJQLC9QY",
+        "deck": [
+            "cannon-ev1",
+            "skeletons-ev1",
+            "musketeer-hero",
+            "hog-rider",
+            "fireball",
+            "ice-golem",
+            "ice-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "200UQGGJ8U",
+        "deck": [
+            "battle-ram-ev1",
+            "royal-ghost-ev1",
+            "pekka",
+            "fireball",
+            "electro-wizard",
+            "bandit",
+            "minions",
+            "zap"
+        ]
+    },
+    {
+        "player_id": "V2UCC0LC2",
+        "deck": [
+            "musketeer-ev1",
+            "skeletons-ev1",
+            "balloon",
+            "miner",
+            "ice-golem",
+            "barbarian-barrel",
+            "giant-snowball",
+            "bomb-tower"
+        ]
+    },
+    {
+        "player_id": "VCLUP2PC9",
+        "deck": [
+            "witch-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "dark-prince",
+            "heal-spirit",
+            "rage",
+            "elixir-collector"
+        ]
+    },
+    {
+        "player_id": "LQ0PQ00C",
+        "deck": [
+            "royal-giant-ev1",
+            "royal-ghost-ev1",
+            "hunter",
+            "fisherman",
+            "fireball",
+            "skeletons",
+            "electro-spirit",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "R8PG8C90",
+        "deck": [
+            "skeleton-army-ev1",
+            "bats-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "sparky",
+            "minion-horde",
+            "arrows",
+            "rage"
+        ]
+    },
+    {
+        "player_id": "Q9GV0Y8Y",
+        "deck": [
+            "musketeer-ev1",
+            "skeletons-ev1",
+            "balloon",
+            "miner",
+            "ice-golem",
+            "barbarian-barrel",
+            "giant-snowball",
+            "bomb-tower"
+        ]
+    },
+    {
+        "player_id": "88YG280YR",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "skeleton-army-ev1",
+            "skeleton-king",
+            "suspicious-bush",
+            "dart-goblin",
+            "vines",
+            "fire-spirit",
+            "ice-spirit"
+        ]
+    },
+    {
+        "player_id": "UGP2UCQ8Q",
+        "deck": [
+            "wizard-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "sparky",
+            "arrows",
+            "tornado",
+            "heal-spirit"
+        ]
+    },
+    {
+        "player_id": "Q2LL809R",
+        "deck": [
+            "cannon-ev1",
+            "skeletons-ev1",
+            "musketeer-hero",
+            "hog-rider",
+            "fireball",
+            "ice-golem",
+            "ice-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "P0PUV2CVC",
+        "deck": [
+            "witch-ev1",
+            "giant-snowball-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "graveyard",
+            "bowler",
+            "minions",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "UCJ8L2P88",
+        "deck": [
+            "battle-ram-ev1",
+            "inferno-dragon-ev1",
+            "mini-pekka-hero",
+            "mega-knight",
+            "mother-witch",
+            "bomber",
+            "freeze",
+            "zap"
+        ]
+    },
+    {
+        "player_id": "R09228V",
+        "deck": [
+            "royal-giant-ev1",
+            "royal-ghost-ev1",
+            "wizard-hero",
+            "fisherman",
+            "fireball",
+            "skeletons",
+            "electro-spirit",
+            "barbarian-barrel"
+        ]
+    },
+    {
+        "player_id": "PLCJRCQQ",
+        "deck": [
+            "executioner-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "hog-rider",
+            "elite-barbarians",
+            "minions",
+            "ice-golem",
+            "freeze"
+        ]
+    },
+    {
+        "player_id": "2GYQRRL",
+        "deck": [
+            "bomber-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "dark-prince",
+            "fireball",
+            "mega-minion",
+            "rage"
+        ]
+    },
+    {
+        "player_id": "QUCL2R9PY",
+        "deck": [
+            "wizard-ev1",
+            "bats-ev1",
+            "balloon",
+            "lumberjack",
+            "vines",
+            "ice-golem",
+            "barbarian-barrel",
+            "giant-snowball"
+        ]
+    },
+    {
+        "player_id": "RVCQ2CQGJ",
+        "deck": [
+            "wall-breakers-ev1",
+            "bats-ev1",
+            "miner",
+            "rocket",
+            "knight",
+            "spear-goblins",
+            "the-log",
+            "bomb-tower"
+        ]
+    },
+    {
+        "player_id": "2JYL2CGQU",
+        "deck": [
+            "bats-ev1",
+            "zap-ev1",
+            "giant-hero",
+            "sparky",
+            "dark-prince",
+            "skeleton-army",
+            "electro-wizard",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "QPG2CQQ8Y",
+        "deck": [
+            "witch-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant",
+            "dark-prince",
+            "heal-spirit",
+            "rage",
+            "elixir-collector"
+        ]
+    },
+    {
+        "player_id": "CC9VUCLV",
+        "deck": [
+            "baby-dragon-ev1",
+            "witch-ev1",
+            "mini-pekka-hero",
+            "golem",
+            "berserker",
+            "vines",
+            "barbarian-barrel",
+            "elixir-collector"
+        ]
+    },
+    {
+        "player_id": "QPP98PLU",
+        "deck": [
+            "mega-knight-ev1",
+            "inferno-dragon-ev1",
+            "knight-hero",
+            "balloon",
+            "miner",
+            "arrows",
+            "bats",
+            "zap"
+        ]
+    },
+    {
+        "player_id": "20892YLLLQ",
+        "deck": [
+            "firecracker-ev1",
+            "barbarians-ev1",
+            "hog-rider",
+            "giant-skeleton",
+            "minion-horde",
+            "lightning",
+            "guards",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "VL099CU9G",
+        "deck": [
+            "archers-ev1",
+            "tesla-ev1",
+            "knight-hero",
+            "x-bow",
+            "fireball",
+            "skeletons",
+            "electro-spirit",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "8JJ80J28",
+        "deck": [
+            "wizard-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "sparky",
+            "arrows",
+            "tornado",
+            "heal-spirit"
+        ]
+    },
+    {
+        "player_id": "8JL0GJ9CG",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "royal-ghost-ev1",
+            "wall-breakers",
+            "dart-goblin",
+            "vines",
+            "rascals",
+            "barbarian-barrel",
+            "bomb-tower"
+        ]
+    },
+    {
+        "player_id": "2RCY2JV9G",
+        "deck": [
+            "wall-breakers-ev1",
+            "cannon-ev1",
+            "knight-hero",
+            "musketeer-hero",
+            "miner",
+            "poison",
+            "skeletons",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "CRUGCURRP",
+        "deck": [
+            "cannon-ev1",
+            "skeletons-ev1",
+            "knight-hero",
+            "goblin-demolisher",
+            "rocket",
+            "ice-spirit",
+            "royal-delivery",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "VUU2RL2U0",
+        "deck": [
+            "skeleton-army-ev1",
+            "giant-snowball-ev1",
+            "giant-hero",
+            "wizard-hero",
+            "graveyard",
+            "bowler",
+            "minions",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "800PL0J",
+        "deck": [
+            "bomber-ev1",
+            "tesla-ev1",
+            "knight-hero",
+            "x-bow",
+            "rocket",
+            "princess",
+            "electro-spirit",
+            "royal-delivery"
+        ]
+    },
+    {
+        "player_id": "VPRVY8L8Y",
+        "deck": [
+            "musketeer-ev1",
+            "skeletons-ev1",
+            "balloon",
+            "miner",
+            "ice-golem",
+            "barbarian-barrel",
+            "giant-snowball",
+            "bomb-tower"
+        ]
+    },
+    {
+        "player_id": "8QL2RLLUJ",
+        "deck": [
+            "witch-ev1",
+            "giant-snowball-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "graveyard",
+            "bowler",
+            "guards",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "9Q8UPVJQJ",
+        "deck": [
+            "royal-ghost-ev1",
+            "zap-ev1",
+            "golden-knight",
+            "three-musketeers",
+            "mini-pekka",
+            "ice-golem",
+            "heal-spirit",
+            "elixir-collector"
+        ]
+    },
+    {
+        "player_id": "QG2QPY0",
+        "deck": [
+            "skeleton-barrel-ev1",
+            "skeleton-army-ev1",
+            "skeleton-king",
+            "suspicious-bush",
+            "dart-goblin",
+            "vines",
+            "fire-spirit",
+            "ice-spirit"
+        ]
+    },
+    {
+        "player_id": "2GVQ0GR9G",
+        "deck": [
+            "witch-ev1",
+            "zap-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "dark-prince",
+            "heal-spirit",
+            "rage",
+            "elixir-collector"
+        ]
+    },
+    {
+        "player_id": "CJ89V2Q8R",
+        "deck": [
+            "royal-hogs-ev1",
+            "cannon-ev1",
+            "archer-queen",
+            "earthquake",
+            "skeletons",
+            "ice-spirit",
+            "royal-delivery",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "29PYGRYLY",
+        "deck": [
+            "skeleton-army-ev1",
+            "witch-ev1",
+            "mini-pekka-hero",
+            "giant-hero",
+            "cannon-cart",
+            "vines",
+            "zappies",
+            "arrows"
+        ]
+    },
+    {
+        "player_id": "C98PY0LP",
+        "deck": [
+            "valkyrie-ev1",
+            "zap-ev1",
+            "balloon",
+            "lumberjack",
+            "lightning",
+            "furnace",
+            "guards",
+            "tombstone"
+        ]
+    },
+    {
+        "player_id": "CVVCU2JJ8",
+        "deck": [
+            "skeletons-ev1",
+            "tesla-ev1",
+            "knight-hero",
+            "miner",
+            "rocket",
+            "ice-spirit",
+            "royal-delivery",
+            "the-log"
+        ]
+    },
+    {
+        "player_id": "RJPVQCVRY",
+        "deck": [
+            "royal-giant-ev1",
+            "witch-ev1",
+            "skeleton-king",
+            "lightning",
+            "fisherman",
+            "zappies",
+            "barbarian-barrel",
+            "tombstone"
+        ]
+    }
+]
